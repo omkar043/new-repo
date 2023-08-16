@@ -3,3 +3,6 @@ hello this is developer 1
 commit 1 by  dev2
 
 dev1 : made some minor changes and made changes in database
+
+dev2 : commit made
+
